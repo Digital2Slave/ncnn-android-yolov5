@@ -25,9 +25,7 @@ open this project with Android Studio, build it and enjoy!
 ## Questions
 
 
-1. Could Not find Vulkan
+1. Could NOT find Vulkan (missing: Vulkan_LIBRARY) #10 https://github.com/nihui/ncnn-android-yolov5/issues/10 
 
-https://github.com/nihui/ncnn-android-yolov5/issues/10 
-
-minSdkVersion is no older than 24
+`minSdkVersion is no older than 24`
 

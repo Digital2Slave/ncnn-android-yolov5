@@ -21,3 +21,13 @@ open this project with Android Studio, build it and enjoy!
 ## screenshot
 ![](screenshot.jpg)
 
+
+## Questions
+
+
+1. Could Not find Vulkan
+
+https://github.com/nihui/ncnn-android-yolov5/issues/10 
+
+minSdkVersion is no older than 24
+
